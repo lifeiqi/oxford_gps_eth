@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: oxford_gps_eth
+Description: Description of oxford_gps_eth
+Version: 0.0.6
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

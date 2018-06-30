@@ -1,0 +1,8 @@
+prefix=/home/lifeiqi/integrated_navigation/src/oxford_gps_eth/cmake-build-debug/devel
+
+Name: oxford_gps_eth
+Description: Description of oxford_gps_eth
+Version: 0.0.6
+Cflags: 
+Libs: -L/home/lifeiqi/integrated_navigation/src/oxford_gps_eth/cmake-build-debug/devel/lib 
+Requires: 

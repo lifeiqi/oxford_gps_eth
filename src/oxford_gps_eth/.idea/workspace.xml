@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="oxford_gps_eth" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="test_packet" />
+      <config projectName="oxford_gps_eth" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="gtest" />
+      <config projectName="oxford_gps_eth" targetName="gmock_main" />
+      <config projectName="oxford_gps_eth" targetName="clean_test_results_oxford_gps_eth" />
+      <config projectName="oxford_gps_eth" targetName="nav_msgs_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="_run_tests_oxford_gps_eth_roslaunch-check_.._launch" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_generate_messages_py" />
+      <config projectName="oxford_gps_eth" targetName="tf_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="oxford_gps_eth" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="_run_tests_oxford_gps_eth" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="roscpp_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="doxygen" />
+      <config projectName="oxford_gps_eth" targetName="std_msgs_generate_messages_py" />
+      <config projectName="oxford_gps_eth" targetName="run_tests_oxford_gps_eth_gtest_test_packet" />
+      <config projectName="oxford_gps_eth" targetName="run_tests_oxford_gps_eth" />
+      <config projectName="oxford_gps_eth" targetName="run_tests_oxford_gps_eth_rostest_tests_system.test" />
+      <config projectName="oxford_gps_eth" targetName="test_system" />
+      <config projectName="oxford_gps_eth" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="run_tests_oxford_gps_eth_roslaunch-check_.._launch" />
+      <config projectName="oxford_gps_eth" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="oxford_gps_eth_gps_node" />
+      <config projectName="oxford_gps_eth" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="_run_tests_oxford_gps_eth_roslaunch-check" />
+      <config projectName="oxford_gps_eth" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="nav_msgs_generate_messages_py" />
+      <config projectName="oxford_gps_eth" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="nav_msgs_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="_run_tests_oxford_gps_eth_rostest_tests_system.test" />
+      <config projectName="oxford_gps_eth" targetName="_run_tests_oxford_gps_eth_gtest_test_packet" />
+      <config projectName="oxford_gps_eth" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="oxford_gps_eth" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="run_tests" />
+      <config projectName="oxford_gps_eth" targetName="gmock" />
+      <config projectName="oxford_gps_eth" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="nav_msgs_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="_run_tests_oxford_gps_eth_gtest" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="_run_tests_oxford_gps_eth_rostest" />
+      <config projectName="oxford_gps_eth" targetName="tf_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="run_tests_oxford_gps_eth_gtest" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="oxford_gps_eth" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="oxford_gps_eth" targetName="download_extra_data" />
+      <config projectName="oxford_gps_eth" targetName="tf_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="run_tests_oxford_gps_eth_roslaunch-check" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="gtest_main" />
+      <config projectName="oxford_gps_eth" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="tests" />
+      <config projectName="oxford_gps_eth" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="oxford_gps_eth" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="oxford_gps_eth" targetName="nav_msgs_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="oxford_gps_eth" targetName="roscpp_generate_messages_py" />
+      <config projectName="oxford_gps_eth" targetName="tf_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="run_tests_oxford_gps_eth_rostest" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_generate_messages_eus" />
+      <config projectName="oxford_gps_eth" targetName="tf_generate_messages_py" />
+      <config projectName="oxford_gps_eth" targetName="clean_test_results" />
+      <config projectName="oxford_gps_eth" targetName="actionlib_msgs_generate_messages_py" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e10e0e0a-7690-4aae-a100-c1d874897359" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="node.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/node.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding>
+                <element signature="e#1845#1879#0" expanded="true" />
+                <element signature="e#12881#12941#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gps.launch" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/launch/gps.launch">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/node.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="376" />
+    <option name="y" value="80" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="_run_tests_oxford_gps_eth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="_run_tests_oxford_gps_eth" CONFIG_NAME="Debug" />
+    <configuration name="_run_tests_oxford_gps_eth_gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="_run_tests_oxford_gps_eth_gtest" CONFIG_NAME="Debug" />
+    <configuration name="_run_tests_oxford_gps_eth_gtest_test_packet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="_run_tests_oxford_gps_eth_gtest_test_packet" CONFIG_NAME="Debug" />
+    <configuration name="_run_tests_oxford_gps_eth_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="_run_tests_oxford_gps_eth_roslaunch-check" CONFIG_NAME="Debug" />
+    <configuration name="_run_tests_oxford_gps_eth_roslaunch-check_.._launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="_run_tests_oxford_gps_eth_roslaunch-check_.._launch" CONFIG_NAME="Debug" />
+    <configuration name="_run_tests_oxford_gps_eth_rostest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="_run_tests_oxford_gps_eth_rostest" CONFIG_NAME="Debug" />
+    <configuration name="_run_tests_oxford_gps_eth_rostest_tests_system.test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="_run_tests_oxford_gps_eth_rostest_tests_system.test" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug" />
+    <configuration name="clean_test_results_oxford_gps_eth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="clean_test_results_oxford_gps_eth" CONFIG_NAME="Debug" />
+    <configuration name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug" />
+    <configuration name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="doxygen" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="geometry_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="geometry_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="gmock" CONFIG_NAME="Debug" />
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="gmock_main" CONFIG_NAME="Debug" />
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="gtest" CONFIG_NAME="Debug" />
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="gtest_main" CONFIG_NAME="Debug" />
+    <configuration name="nav_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="nav_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="nav_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="nav_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="nav_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="nav_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="nav_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="nav_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="nav_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="nav_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="oxford_gps_eth_gps_node" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="oxford_gps_eth_gps_node" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oxford_gps_eth" RUN_TARGET_NAME="oxford_gps_eth_gps_node" />
+    <configuration name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="roscpp_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="roscpp_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="rosgraph_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="rosgraph_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="run_tests" CONFIG_NAME="Debug" />
+    <configuration name="run_tests_oxford_gps_eth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="run_tests_oxford_gps_eth" CONFIG_NAME="Debug" />
+    <configuration name="run_tests_oxford_gps_eth_gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="run_tests_oxford_gps_eth_gtest" CONFIG_NAME="Debug" />
+    <configuration name="run_tests_oxford_gps_eth_gtest_test_packet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="run_tests_oxford_gps_eth_gtest_test_packet" CONFIG_NAME="Debug" />
+    <configuration name="run_tests_oxford_gps_eth_roslaunch-check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="run_tests_oxford_gps_eth_roslaunch-check" CONFIG_NAME="Debug" />
+    <configuration name="run_tests_oxford_gps_eth_roslaunch-check_.._launch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="run_tests_oxford_gps_eth_roslaunch-check_.._launch" CONFIG_NAME="Debug" />
+    <configuration name="run_tests_oxford_gps_eth_rostest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="run_tests_oxford_gps_eth_rostest" CONFIG_NAME="Debug" />
+    <configuration name="run_tests_oxford_gps_eth_rostest_tests_system.test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="run_tests_oxford_gps_eth_rostest_tests_system.test" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="sensor_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="sensor_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="std_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="std_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="test_packet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="test_packet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oxford_gps_eth" RUN_TARGET_NAME="test_packet" />
+    <configuration name="test_system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="test_system" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oxford_gps_eth" RUN_TARGET_NAME="test_system" />
+    <configuration name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tests" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf2_msgs_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf2_msgs_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_eus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf_generate_messages_eus" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_nodejs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf_generate_messages_nodejs" CONFIG_NAME="Debug" />
+    <configuration name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oxford_gps_eth" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.actionlib_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_generate_messages_py" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_eus" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.actionlib_msgs_generate_messages_py" />
+      <item itemvalue="Application.clean_test_results" />
+      <item itemvalue="Application.download_extra_data" />
+      <item itemvalue="Application.doxygen" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_eus" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.geometry_msgs_generate_messages_py" />
+      <item itemvalue="Application.nav_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_eus" />
+      <item itemvalue="Application.nav_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.nav_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.nav_msgs_generate_messages_py" />
+      <item itemvalue="Application.oxford_gps_eth_gps_node" />
+      <item itemvalue="Application.roscpp_generate_messages_cpp" />
+      <item itemvalue="Application.roscpp_generate_messages_eus" />
+      <item itemvalue="Application.roscpp_generate_messages_lisp" />
+      <item itemvalue="Application.roscpp_generate_messages_nodejs" />
+      <item itemvalue="Application.roscpp_generate_messages_py" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_eus" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.rosgraph_msgs_generate_messages_py" />
+      <item itemvalue="Application.run_tests" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_eus" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.sensor_msgs_generate_messages_py" />
+      <item itemvalue="Application.std_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.std_msgs_generate_messages_eus" />
+      <item itemvalue="Application.std_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.std_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.std_msgs_generate_messages_py" />
+      <item itemvalue="Application.tests" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_cpp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_eus" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_lisp" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_nodejs" />
+      <item itemvalue="Application.tf2_msgs_generate_messages_py" />
+      <item itemvalue="Application.tf_generate_messages_cpp" />
+      <item itemvalue="Application.tf_generate_messages_eus" />
+      <item itemvalue="Application.tf_generate_messages_lisp" />
+      <item itemvalue="Application.tf_generate_messages_nodejs" />
+      <item itemvalue="Application.tf_generate_messages_py" />
+      <item itemvalue="Application._run_tests_oxford_gps_eth" />
+      <item itemvalue="Application._run_tests_oxford_gps_eth_gtest" />
+      <item itemvalue="Application._run_tests_oxford_gps_eth_gtest_test_packet" />
+      <item itemvalue="Application._run_tests_oxford_gps_eth_roslaunch-check" />
+      <item itemvalue="Application._run_tests_oxford_gps_eth_roslaunch-check_.._launch" />
+      <item itemvalue="Application._run_tests_oxford_gps_eth_rostest" />
+      <item itemvalue="Application._run_tests_oxford_gps_eth_rostest_tests_system.test" />
+      <item itemvalue="Application.clean_test_results_oxford_gps_eth" />
+      <item itemvalue="Application.run_tests_oxford_gps_eth" />
+      <item itemvalue="Application.run_tests_oxford_gps_eth_gtest" />
+      <item itemvalue="Application.run_tests_oxford_gps_eth_gtest_test_packet" />
+      <item itemvalue="Application.run_tests_oxford_gps_eth_roslaunch-check" />
+      <item itemvalue="Application.run_tests_oxford_gps_eth_roslaunch-check_.._launch" />
+      <item itemvalue="Application.run_tests_oxford_gps_eth_rostest" />
+      <item itemvalue="Application.run_tests_oxford_gps_eth_rostest_tests_system.test" />
+      <item itemvalue="Application.test_packet" />
+      <item itemvalue="Application.test_system" />
+      <item itemvalue="Application.gmock" />
+      <item itemvalue="Application.gmock_main" />
+      <item itemvalue="Application.gtest" />
+      <item itemvalue="Application.gtest_main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e10e0e0a-7690-4aae-a100-c1d874897359" name="Default" comment="" />
+      <created>1525188739267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525188739267</updated>
+      <workItem from="1525188743507" duration="32000" />
+      <workItem from="1525188849952" duration="1485000" />
+      <workItem from="1525307951616" duration="18000" />
+      <workItem from="1526109851750" duration="70000" />
+      <workItem from="1526109986994" duration="163000" />
+      <workItem from="1530253082183" duration="1043000" />
+      <workItem from="1530325429561" duration="2395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5206000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21571429" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" visible="true" weight="0.18468468" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21571429" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="CMake" order="0" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#1845#1879#0" expanded="true" />
+            <element signature="e#12881#12941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/gps.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/system.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9747">
+          <caret line="513" column="31" lean-forward="true" selection-start-line="513" selection-start-column="31" selection-end-line="513" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+          <folding>
+            <element signature="e#1845#1879#0" expanded="true" />
+            <element signature="e#12881#12941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1845#1879#0" expanded="true" />
+            <element signature="e#12881#12941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1845#1879#0" expanded="true" />
+            <element signature="e#12881#12941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1845#1879#0" expanded="true" />
+            <element signature="e#12881#12941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/system.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="483" column="37" selection-start-line="483" selection-start-column="31" selection-end-line="483" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch/gps.launch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="e#1845#1879#0" expanded="true" />
+            <element signature="e#12881#12941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

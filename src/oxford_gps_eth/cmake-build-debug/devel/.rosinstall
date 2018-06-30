@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lifeiqi/integrated_navigation/src/oxford_gps_eth/cmake-build-debug/devel/setup.sh
